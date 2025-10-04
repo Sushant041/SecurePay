@@ -17,7 +17,7 @@ With Secure-Pay, crypto payments on Aptos aren't just faster and cheaper — the
 | Resource | Link |
 |----------|------|
 | GitHub Repository | 🔗 [View on GitHub](https://github.com/Sushant041/secure-pay) |
-| Live Demo | 🔗 [Open Secure-Pay](https://secure-pay-iota.vercel.app/) |
+| Live Demo | 🔗 [Open Secure-Pay](https://secure-pay-a8zn.vercel.app/) |
 | Demo Video | 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=dTbT9lKF738) |
 | Aptos Explorer – Smart Contract | 🔗 [View Contract](https://explorer.aptoslabs.com/account/0x561e3de8c948305003be617b7ce5f5280aa36798ea256a8fab13fe21c2e040f4/modules/code/escrow_vault?network=testnet) |
 | Pitch Deck | 🔗 [View Presentation](https://docs.google.com/presentation/d/1niEm5j5eUhE0_fxOdb4njMoavFEFQMAAB8DRtqt0In8/edit?slide=id.p7#slide=id.p7) |
